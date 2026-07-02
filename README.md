@@ -1,2 +1,5 @@
-# action.man.arena.3d
-3d action man on arena cursor keys
+openjdk-asmtools-jasm Hello.jasm -w .
+
+sudo dnf install openjdk-asmtools.noarch
+
+/usr/bin/openjdk-asmtools-jdis -w . Hello.class
